@@ -20,10 +20,10 @@ title = "Mondello Dott. Placido"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/hpv-studio-mondello.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop = "images/logo/hpv-studio-mondello.svg"
+    desktop_height = "60px"
     alt = "Dottore Mondello Placido - Ginecologo"
 
   [params.fonts]
