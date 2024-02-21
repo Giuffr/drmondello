@@ -21,7 +21,7 @@ title = "Mondello Dott. Placido"
 
   [params.logo]
     mobile = "images/logo/hpv-studio-mondello.svg"
-    mobile_height = "36px"
+    mobile_height = "60px"
     desktop = "images/logo/hpv-studio-mondello.svg"
     desktop_height = "60px"
     alt = "Dottore Mondello Placido - Ginecologo"
