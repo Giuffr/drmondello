@@ -1,9 +1,9 @@
 ---
-title: "Visita con Peniscopia per Ricerca Lesioni da HPV"
+title: "Peniscopia per Ricerca Lesioni da HPV"
 date: 2024-02-21
 draft: false
 featured: true
-weight: 2
+weight: 22
 summary: "La prevenzione è fondamentale per mantenere la salute sessuale maschile. Presso il nostro studio, offriamo un'approfondita visita genitale maschile con peniscopia per la ricerca precoce di lesioni da HPV (Papilloma Virus)."
 ---
 

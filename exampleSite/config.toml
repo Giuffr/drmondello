@@ -56,23 +56,23 @@ title = "Mondello Dott. Placido"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Chi Siamo"
+    url = "/chi-siamo/"
     weight = 1
-
+  
   [[menu.main]]
-    name = "Team"
-    url = "/team/"
+    name = "Servizi"
+    url = "/servizi/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Contatti"
+    url = "/contatti/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
     weight = 4
 
   # Footer Menu
@@ -81,7 +81,22 @@ title = "Mondello Dott. Placido"
     url = "/"
     weight = 1
 
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
+[[menu.footer]]
+    name = "Servizi"
+    url = "/servizi/"
     weight = 2
+
+[[menu.footer]]
+    name = "Chi sono"
+    url = "/chi-siamo/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "Contatti"
+    url = "/contatti/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 5
