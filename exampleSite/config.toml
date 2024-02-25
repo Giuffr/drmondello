@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Mondello Dott. Placido"
+title = "Dott. Mondello Placido"
 
 [module]
   [module.hugoVersion]
@@ -59,7 +59,7 @@ title = "Mondello Dott. Placido"
     name = "Chi Siamo"
     url = "/chi-siamo/"
     weight = 1
-  
+
   [[menu.main]]
     name = "Servizi"
     url = "/servizi/"

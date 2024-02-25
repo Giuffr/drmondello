@@ -3,7 +3,7 @@ title: "Colposcopia, un Esame Preciso e Approfondito"
 date: 2024-02-21
 draft: false
 featured: true
-weight: 2
+weight: 12
 summary: "La colposcopia è un esame importante per la prevenzione e la diagnosi precoce di lesioni precancerose del collo dell'utero."
 ---
 
