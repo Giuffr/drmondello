@@ -1,5 +1,5 @@
 ---
-title: "Trattamento delle Infezioni Sessualmente Trasmissibili: Focus sull'HPV"
+title: "Trattamento delle Infezioni Sessualmente Trasmissibili: focus sull'HPV"
 date: 2024-02-21
 draft: false
 featured: true
@@ -15,24 +15,28 @@ Il trattamento delle infezioni sessualmente trasmissibili è fondamentale per pr
 ## Prevenzione e Diagnosi Precoce dell'HPV
 La prevenzione e la diagnosi precoce dell'HPV sono cruciali per ridurre il rischio di complicazioni e prevenire la trasmissione dell'infezione. Il Dott. Mondello offre un'ampia gamma di servizi per la prevenzione e lo screening dell'HPV, incluso il test HPV e la valutazione dei fattori di rischio.
 
-Nella nostra pratica, offriamo una serie di visite preventive e diagnostiche mirate alla ricerca precoce dell'HPV e delle sue lesioni correlate:
+Nella nostra pratica, offriamo una serie di visite preventive e diagnostiche mirate alla ricerca precoce dell'HPV e delle sue lesioni correlate.
 
-- __Visita ginecologica con colposcopia, PAP-Test per ricerca lesioni da HPV:__
+### Visita ginecologica con colposcopia, PAP-Test per ricerca lesioni da HPV
 Durante questa visita, eseguiamo un esame completo del tratto genitale femminile, inclusa una colposcopia per esaminare attentamente il collo dell'utero alla ricerca di lesioni da HPV, insieme al prelievo di campioni per il PAP-Test, un importante strumento di screening per il cancro cervicale.
 
-- Visita genitali sesso maschile con peniscopia per ricerca lesioni da HPV
+### Visita genitali sesso maschile con peniscopia per ricerca lesioni da HPV
+
 Durante questa visita, eseguiamo un'ispezione dettagliata del pene e dei genitali maschili utilizzando la peniscopia per individuare eventuali lesioni o anomalie indicative di infezione da HPV.
 
-- Visita cavo orale sesso femminile e maschile con ricerca HPV DNA e lesioni da HPV
+### Visita cavo orale sesso femminile e maschile con ricerca HPV DNA e lesioni da HPV
+
 Questa visita comprende un'esame approfondito della cavità orale per individuare la presenza di HPV, utilizzando il test HPV DNA, insieme alla ricerca di lesioni da HPV.
 
-- Rettoscopia sesso femminile e maschile per ricerca lesioni da HPV
+### Rettoscopia sesso femminile e maschile per ricerca lesioni da HPV
+
 Durante la rettoscopia, esaminiamo l'ano e il retto per individuare eventuali lesioni o anomalie causate dall'HPV.
 
-- Ricerca HPV DNA urinario e ricerca lesioni da HPV in vescica
+### Ricerca HPV DNA urinario e ricerca lesioni da HPV in vescica
+
 Questo test è mirato alla ricerca dell'HPV e delle sue lesioni anche nell'ambito delle vie urinarie, offrendo una diagnosi completa e accurata.
 
-Queste visite preventive e diagnostiche sono fondamentali per la prevenzione e la diagnosi precoce dell'HPV, consentendo interventi tempestivi e efficaci per preservare la vostra salute sessuale e generale.
+> Queste visite preventive e diagnostiche sono fondamentali per la prevenzione e la diagnosi precoce dell'HPV, consentendo interventi tempestivi e efficaci per preservare la vostra salute sessuale e generale.
 
 ## Terapia Mirata e Personalizzata
 In caso di diagnosi positiva di HPV, il Dott. Mondello vi guiderà attraverso un piano di trattamento mirato e personalizzato. Utilizziamo approcci terapeutici avanzati e tecnologie all'avanguardia per garantire risultati ottimali e una rapida guarigione.
