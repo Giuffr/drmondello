@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 ---
 
 # HPV Studio del Dott. Placido Mondello
-Benvenuti nel mondo del Dottor Placido Mondello, un'eminente figura nella Ginecologia e Ostetricia. Con un ricco background come dirigente medico presso l'Azienda Ospedaliera Universitaria Gaetano Martino di Messina, mi sono dedicato con passione alla prevenzione, diagnosi e trattamento delle malattie sessualmente trasmissibili, compreso l'HPV e il carcinoma cervicale. Qui, vi offro il mio impegno e la mia competenza per garantire la vostra salute e il vostro benessere.
+Benvenuto nel sito del Dottor Placido Mondello, specialista in Ginecologia e Ostetricia. Con una vasta esperienza come dirigente medico presso l’Azienda Ospedaliera Universitaria Gaetano Martino di Messina, si impegna con passione nella prevenzione, diagnosi e trattamento delle malattie sessualmente trasmissibili, tra cui l’HPV e il carcinoma cervicale. Qui troverai professionalità e dedizione per la tua salute e il tuo benessere.
