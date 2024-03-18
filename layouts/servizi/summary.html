@@ -1,0 +1,11 @@
+<div class="service service-summary">
+  <div class="service-content">
+    <h2 class="service-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p>
+      {{ $truncate_length := .Site.Params.services.summary_truncate }}
+      {{ .Summary | plainify | htmlUnescape | truncate $truncate_length "…" }} <a href="{{ .RelPermalink }}">Leggi di più</a>
+    </p>
+  </div>
+</div>

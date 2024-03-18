@@ -4,7 +4,7 @@ date: 2024-02-21
 draft: false
 featured: true
 weight: 1
-summary: "La visita ginecologica è un esame cruciale per la salute e il benessere delle donne. Con il Dott. Placido Mondello, potete contare su un approccio professionale e attento alla vostra salute ginecologica."
+summary: "La visita ginecologica è un esame importante per la salute e il benessere delle donne. Con il Dott. Placido Mondello, potete contare su un approccio professionale e attento alla vostra salute ginecologica xxx."
 ---
 
 
