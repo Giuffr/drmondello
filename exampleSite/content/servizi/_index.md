@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Scopri i Servizi di Eccellenza Offerti dal Dott. Placido Mondello
 
-Benvenuti nella sezione dedicata ai servizi offerti dal Dott. Placido Mondello. Con un focus sulla salute ginecologica e ostetrica, offriamo una gamma completa di servizi per garantire il benessere delle nostre pazienti. Siamo qui per fornire cure personalizzate, trattamenti avanzati e un sostegno professionale impeccabile. Scoprite di più sui nostri servizi qui sotto.
+Benvenuti nella sezione dedicata ai servizi offerti dal Dott. Placido Mondello. Con un focus sulla salute ginecologica, ostetrica e il Trattamento delle Infezioni Sessualmente Trasmissibili, offriamo una gamma completa di servizi per garantire il benessere delle nostre pazienti. Siamo qui per fornire cure personalizzate, trattamenti avanzati e un sostegno professionale impeccabile. Scoprite di più sui nostri servizi qui sotto.
