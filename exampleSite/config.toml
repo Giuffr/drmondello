@@ -52,7 +52,8 @@ title = "Dott. Mondello Placido"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W - Copyright © 2024 Dott. Placido Mondello. Tutti i diritti sono riservati.'
+    ordinemedici_text = 'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W'
+    copyright_text = 'Copyright © <script>document.write(/\d{4}/.exec(Date())[0])</script> Dott. Placido Mondello. Tutti i diritti sono riservati.'
 
 [menu]
   # Main Menu
