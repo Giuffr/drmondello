@@ -1,4 +1,4 @@
-{{ define "body_classes" }}page-services-single{{ end }}
+{{ define "body_classes" }}page-servizi-single{{ end }}
 
 {{ define "main" }}
 <div class="container pb-6 pt-6 pt-md-14 pb-md-14">
@@ -8,9 +8,12 @@
         <h1 class="title">{{.Title}}</h1>
         <div class="content">
           {{.Content}}
-{{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
+          {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
         </div>
       </div>
+    </div>
+    <div class="col-12 col-md-4">
+      {{ partial "servizi-menu.html" . }}
     </div>
   </div>
 </div>

@@ -1,0 +1,14 @@
+{{ $currentPage := . }}
+{{ $pages := where .Site.RegularPages "Section" "servizi" }}
+<div class="list-group">
+    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+        Servizi
+      </a>
+        {{ range $pages }}
+            {{ $isActive := eq .RelPermalink $currentPage.RelPermalink }}
+            
+                <a class="list-group-item list-group-item-action {{ if $isActive }}disabled{{ end }}" href="{{ .RelPermalink }}">{{ .Title }}</a>
+            
+        {{ end }}
+   
+</div>

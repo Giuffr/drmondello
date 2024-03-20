@@ -18,7 +18,7 @@ $font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
 @import 'bootstrap/bootstrap-reboot';
 @import 'bootstrap/bootstrap-grid';
 @import 'bootstrap/bootstrap-utilities';
-// @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 // Libraries
 @import 'libraries/hamburgers/hamburgers';
