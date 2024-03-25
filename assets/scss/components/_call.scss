@@ -16,7 +16,7 @@
     flex-wrap: wrap;
   }
   .call-box-top {
-    flex: 1 0 auto;
+    min-width: 60%;
     padding: 20px;
     @include media-breakpoint-up(md) {
     }
@@ -37,7 +37,15 @@
     margin-bottom: 5px;
   }
   strong {
+    font-size: 1.2rem;
     font-weight: bold;
+  }
+  .call-box-top h2 {
+    font-size: 1.4rem;
+  }
+  .call-box-top p {
+    font-size: 1.1rem;
+
   }
   svg {
     fill: lighten($primary, 40%);
