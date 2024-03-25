@@ -8,8 +8,8 @@
         <h1 class="title">{{.Title}}</h1>
         <div class="content">
           {{.Content}}
-          {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
         </div>
+        {{ partial "call-booking.html" (dict "site" .Site "context" . "show_button" "true") }}
       </div>
     </div>
     <div class="col-12 col-md-4">

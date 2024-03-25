@@ -24,6 +24,6 @@ In caso di risultati anomali, il Dott. Mondello discuterà con voi le opzioni di
 ## Assistenza Personalizzata
 La vostra salute è la nostra priorità, e faremo tutto il possibile per garantire che riceviate la migliore assistenza possibile durante la colposcopia e oltre. Siamo qui per voi ogni passo del cammino, offrendo supporto e compassione lungo il percorso. Con il Dott. Mondello, potete contare su una cura completa e personalizzata per la vostra salute ginecologica.
 
-Per prenotare uno di questi servizi o per ulteriori informazioni, [contattateci](/contact) oggi stesso.
+Per prenotare una colposcopia o per ulteriori informazioni, [contattateci](/contact) oggi stesso.
 
 

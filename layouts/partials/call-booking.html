@@ -1,0 +1,13 @@
+<div class="call">
+  <div class="call-box-top">
+    {{ if .site.Data.contact.phone }}
+        <div class="call-phone"><strong>Prenota la tua visita</strong>: <a href="tel:{{ .site.Data.contact.phonestudio }}">{{ .site.Data.contact.phonestudio }} </a>
+        </div>
+    {{ end }}
+  </div>
+    {{ if eq .show_button "true" }}
+      <div class="call-box-bottom">
+        <a href="tel:{{ .site.Data.contact.phonestudio }}" class="btn btn-primary" role="button"> <img src="/images/icon/telephone-fill.svg" alt="Chiama adesso!" width="18" height="18"> Chiama adesso!</a>
+      </div>
+    {{ end }}
+</div>
