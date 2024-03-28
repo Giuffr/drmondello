@@ -1,9 +1,9 @@
 {{ $currentPage := . }}
 {{ $pages := where .Site.RegularPages "Section" "servizi" }}
-<br><br><div class="list-group">
-    <h3><a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+<br><br><h3>
     Scopi gli altri servizi
-    </a></h3>
+    </h3>
+<div class="list-group">
         {{ range $pages }}
             {{ $isActive := eq .RelPermalink $currentPage.RelPermalink }}
             {{ if not $isActive }}

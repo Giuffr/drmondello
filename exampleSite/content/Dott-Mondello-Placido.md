@@ -8,6 +8,7 @@ summary: "Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia
 ---
 
 ##  Specializzato in Ginecologia e Ostetricia ed Esperto in Malattie Sessualmente Trasmissibili
+
 ### Profilo Professionale
 
 Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero.
@@ -45,3 +46,5 @@ La trasmissione dell'HPV avviene principalmente per via sessuale, ma esiste la p
 ### Impegno per il Benessere della Famiglia
 
 Il Dott. Placido Mondello da sempre pone particolare attenzione al benessere complessivo della famiglia e della coppia. Con il Centro per l'HPV intende affrontare in quest'ottica tutti i profili legati alla prevenzione, la diagnosi, la terapia di questa temibile infezione virale.
+
+### Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W
