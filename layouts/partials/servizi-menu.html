@@ -1,14 +1,15 @@
 {{ $currentPage := . }}
 {{ $pages := where .Site.RegularPages "Section" "servizi" }}
-<br><br>
-<h3 style="display: block; font-size: 1.6em; margin-top: 1em; margin-bottom: 1em; margin-left: 0; margin-right: 0; font-weight: 400;">
-    Scopi gli altri servizi
+<h3 style="display: block; font-size: 1.6em; margin-top: 2em; margin-bottom: 1em; margin-left: 1em; margin-right: 1em; font-weight: 400; border-bottom: 1px solid rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));">
+    Scopri gli altri servizi
     </h3>
-<div>
+<div class="service service-summary">
+    <div class="service-content">
         {{ range $pages }}
             {{ $isActive := eq .RelPermalink $currentPage.RelPermalink }}
             {{ if not $isActive }}
-                <h4 style="display: block; font-size: 1.1em; margin-top: 1em; margin-bottom: 1em; margin-left: 1em; margin-right: 0; font-weight:300"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+            <h4 style="display: block; font-size: 1.1em; margin-top: 1em; margin-bottom: 1em; margin-left: 2em; margin-right: 1em; font-weight:300; font-family: Playfair Display, serif, -apple-system;"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
             {{ end }}
         {{ end }}
+    </div>
 </div>
