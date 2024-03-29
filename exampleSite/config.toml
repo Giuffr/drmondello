@@ -53,7 +53,7 @@ title = "Dott. Mondello Placido"
 
   [params.footer]
     ordinemedici_text = 'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W'
-    copyright_text = 'Copyright © <script>document.write(/\d{4}/.exec(Date())[0])</script> Dott. Placido Mondello. Tutti i diritti sono riservati.'
+    copyright_text = 'Copyright © <span id="currentYear"></span> Dott. Placido Mondello. Tutti i diritti sono riservati.'
 
 [menu]
   # Main Menu
