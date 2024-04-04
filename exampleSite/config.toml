@@ -1,4 +1,4 @@
-baseURL = "https://hpvstudiomondello.it"
+baseURL = 'https://hpvstudiomondello.it/'
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "it-IT"
