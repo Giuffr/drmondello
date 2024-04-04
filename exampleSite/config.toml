@@ -63,12 +63,12 @@ title = "Dott. Mondello Placido"
     weight = 1
 
   [[menu.main]]
-    name = "Dr. Mondello"
+    name = "il Dr. Mondello"
     url = "/Dott-Mondello-Placido/"
     weight = 2
 
   [[menu.main]]
-    name = "Servizi"
+    name = "i Servizi"
     url = "/servizi/"
     weight = 3
 
@@ -83,14 +83,14 @@ title = "Dott. Mondello Placido"
     url = "/"
     weight = 1
 
-[[menu.footer]]
-    name = "Servizi"
-    url = "/servizi/"
+  [[menu.footer]]
+    name = "il Dr. Mondello"
+    url = "/Dott-Mondello-Placido/"
     weight = 2
 
 [[menu.footer]]
-    name = "Chi sono"
-    url = "/chi-siamo/"
+    name = "i Servizi"
+    url = "/servizi/"
     weight = 3
 
   [[menu.footer]]
