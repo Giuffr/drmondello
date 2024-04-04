@@ -23,7 +23,7 @@ Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetri
 Con oltre 30 anni di esperienza, il Dott. Mondello ha approfondito l'approccio terapeutico alla patologia da HPV, riconoscendo l'importanza di considerare questa malattia come una patologia della coppia. Da questa impostazione rigorosa scaturisce la possibilità di poter eradicare l'infezione nella coppia. L'esperienza e l'evidenza clinica ci portano a considerare che insieme al controllo alla donna è quindi necessario eseguire il controllo al partner attraverso tutti i test diagnostici del caso.
 Grazie a questa impostazione rigorosa, siamo in grado di offrire trattamenti mirati all'eradicazione dell'infezione nella coppia.
 
-### Metodologia e visite-terapie Offerti
+### Metodologia e Servizi Offerti
 Bisogna ricercare la lesione da HPV nei vari distretti dove si può localizzare il virus con:
 
 - **Visita Ginecologica, Colposcopia e PAP-Test**: Un approccio completo alla salute femminile, con un'attenzione particolare alla ricerca delle lesioni da HPV.
