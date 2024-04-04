@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "IT-it"
+languageCode = "it-IT"
 title = "Dott. Mondello Placido"
 
 [module]
@@ -11,7 +11,7 @@ title = "Dott. Mondello Placido"
 
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
-  google_analytics_id = ""
+  google_analytics_id = "" # implementato nel cookie banner
   google_tag_manager_id = ""
   favicon = "favicon-32x32.svg"
 
@@ -24,7 +24,7 @@ title = "Dott. Mondello Placido"
     mobile_height = "60px"
     desktop = "images/logo/hpv-studio-mondello.svg"
     desktop_height = "60px"
-    alt = "Dottore Mondello Placido - Ginecologo"
+    alt = "logo HPV Studio del Dott. Mondello Placido"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -40,9 +40,9 @@ title = "Dott. Mondello Placido"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_twitter_site = "@hpvstudiomondello"
+    meta_twitter_creator = "@hpvstudiomondello"
+    meta_og_image = "hpv-studio-dott-mondello-screenshot.png"
 
   [params.services]
     summary_truncate = 80 # How many characters to include in the summary of the HOME page services before truncating
@@ -61,6 +61,7 @@ title = "Dott. Mondello Placido"
     name = "Home"
     url = "/"
     weight = 1
+  
 
   [[menu.main]]
     name = "Dr. Mondello Placido"
@@ -68,14 +69,19 @@ title = "Dott. Mondello Placido"
     weight = 2
 
   [[menu.main]]
-    name = "Servizi"
-    url = "/servizi/"
+    name = "Centro HPV"
+    url = "/centro-hpv/"
     weight = 3
+
+  [[menu.main]]
+    name = "Visite e Terapie"
+    url = "/visite-terapie/"
+    weight = 4
 
   [[menu.main]]
     name = "Contatti"
     url = "/contatti/"
-    weight = 4
+    weight = 5
 
   # Footer Menu
   [[menu.footer]]
@@ -88,17 +94,22 @@ title = "Dott. Mondello Placido"
     url = "/Dott-Mondello-Placido/"
     weight = 2
 
-[[menu.footer]]
-    name = "Servizi"
-    url = "/servizi/"
+  [[menu.footer]]
+    name = "Centro HPV"
+    url = "/centro-hpv/"
     weight = 3
+
+  [[menu.footer]]
+    name = "Visite e Terapie"
+    url = "/visite-terapie/"
+    weight = 4
 
   [[menu.footer]]
     name = "Contatti"
     url = "/contatti/"
-    weight = 4
+    weight = 5
 
   [[menu.footer]]
     name = "Privacy Policy"
     url = "/privacy-policy/"
-    weight = 5
+    weight = 6

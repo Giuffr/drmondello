@@ -15,7 +15,7 @@
   </div>
 </div>
 
-{{ $servizi := where (where .Site.RegularPages "Type" "servizi") ".Params.featured" true }}
+{{ $servizi := where (where .Site.RegularPages "Type" "visite-terapie") ".Params.featured" true }}
 {{if gt (len $servizi) 0}}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
@@ -29,7 +29,7 @@
     {{ if .Site.Params.homepage.show_services_button }}
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "servizi/" | relURL }}">Tutti i Servizi</a>
+        <a class="button button-primary" href="{{ "visite-terapie/" | relURL }}">Tutte le Visite e Terapie</a>
       </div>
     </div>
     {{ end }}

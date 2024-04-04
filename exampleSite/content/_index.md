@@ -1,7 +1,7 @@
 ---
 title: 'HPV Studio del Dott. Placido Mondello'
 meta_title: 'Dott. Placido Mondello, Ginecologo: Esperto in MST, HPV'
-description: "Dr. Placido Mondello, Specializzato in: Ginecologia e Ostetricia, Prevenzione e cura dell'HPV Papilloma Virus su donna e uomo. Riceve a Messina e Roma"
+description: "Dr. Placido Mondello, Specializzato in: Ginecologia e Ostetricia, Prevenzione e Cura dell'HPV Papilloma Virus su donna e uomo. Riceve a Messina"
 intro_image: "images/illustrations/ginecologo-mondello-messina-intro.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
 intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above

@@ -1,29 +1,23 @@
 ---
-title: "Dott. Placido Mondello"
-description: "Specializzato in Ginecologia e Ostetricia ed Esperto in Malattie Sessualmente Trasmissibili"
+title: "Centro HPV: Prevenzione e Cura del Papilloma Virus Umano"
+description: "Scopri il nostro centro specializzato nella prevenzione e cura dell'HPV (Papilloma Virus Umano). Prenota la tua visita oggi stesso!"
 date: 2024-03-13
 draft: false
 featured: true
-summary: "Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero."
+summary: "Il Centro HPV si impegna nella prevenzione, diagnosi e terapia dell'HPV, affrontando tutti i profili legati a questa infezione virale."
 ---
 
-##  Specializzato in Ginecologia e Ostetricia ed Esperto in Malattie Sessualmente Trasmissibili
+## Il Centro HPV si impegna nella prevenzione, diagnosi e terapia dell'HPV, affrontando tutti i profili legati a questa infezione virale.
 
-**Iscritto all'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W**
-
-### Profilo Professionale
-
-Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero.
-
-![About Us](/images/Dott-Placido-Mondello.png)
+![Lo studio dell'HPV](/images/ricerca-lesioni-hpv.jpeg)
 
 
 ### Approccio Terapeutico
 
-Con oltre 30 anni di esperienza, il Dott. Mondello ha approfondito l'approccio terapeutico alla patologia da HPV, riconoscendo l'importanza di considerare questa malattia come una patologia della coppia. Da questa impostazione rigorosa scaturisce la possibilità di poter eradicare l'infezione nella coppia. L'esperienza e l'evidenza clinica ci portano a considerare che insieme al controllo alla donna è quindi necessario eseguire il controllo al partner attraverso tutti i test diagnostici del caso.
+Con **oltre 30 anni di esperienza**, il Dott. Mondello ha approfondito l'approccio terapeutico alla patologia da HPV, riconoscendo l'importanza di considerare questa malattia come una patologia della coppia. Da questa impostazione rigorosa scaturisce la possibilità di poter eradicare l'infezione nella coppia. L'esperienza e l'evidenza clinica ci portano a considerare che insieme al controllo alla donna è quindi necessario eseguire il controllo al partner attraverso tutti i test diagnostici del caso.
 Grazie a questa impostazione rigorosa, siamo in grado di offrire trattamenti mirati all'eradicazione dell'infezione nella coppia.
 
-### Metodologia e visite-terapie Offerti
+### Ricerca dell'HPV: Esami e Trattamenti Specializzati
 Bisogna ricercare la lesione da HPV nei vari distretti dove si può localizzare il virus con:
 
 - **Visita Ginecologica, Colposcopia e PAP-Test**: Un approccio completo alla salute femminile, con un'attenzione particolare alla ricerca delle lesioni da HPV.
