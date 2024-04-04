@@ -6,7 +6,11 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <base href="{{ .Site.BaseURL }}">
   <title>{{ block "title" . }}{{ .Params.meta_title | default (printf "%s - %s" .Title .Site.Title) }}{{ end }}</title>
-  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if .IsPage }}
+    <link rel="canonical" href="{{ .Permalink }}">
+{{ else }}
+    <link rel="canonical" href="{{ .Site.BaseURL }}">
+{{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}">
 
