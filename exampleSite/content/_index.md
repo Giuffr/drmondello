@@ -1,6 +1,6 @@
 ---
-title: 'Dott. Placido Mondello - Ginecologo a Messina'
-meta_title: 'Dott. Placido Mondello, Ginecologo: Esperto in MST, HPV Papilloma Virus'
+title: 'HPV Studio del Dott. Placido Mondello'
+meta_title: 'Dott. Placido Mondello, Ginecologo: Esperto in MST, HPV'
 description: "Dr. Placido Mondello, Specializzato in: Ginecologia e Ostetricia, Prevenzione e cura dell'HPV Papilloma Virus su donna e uomo. Riceve a Messina e Roma"
 intro_image: "images/illustrations/ginecologo-mondello-messina-intro.svg"
 intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
