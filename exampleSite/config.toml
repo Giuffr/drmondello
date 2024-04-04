@@ -22,8 +22,10 @@ title = "Dott. Mondello Placido"
   [params.logo]
     mobile = "images/logo/hpv-studio-mondello.svg"
     mobile_height = "60px"
+    mobile_width = "209px"
     desktop = "images/logo/hpv-studio-mondello.svg"
     desktop_height = "60px"
+    desktop_width = "209px"
     alt = "logo HPV Studio del Dott. Mondello Placido"
 
   [params.fonts]
