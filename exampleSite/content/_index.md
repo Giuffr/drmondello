@@ -1,5 +1,5 @@
 ---
-title: 'Dott. Placido Mondello - Ginecologo a Messina'
+title: 'HPV Studio del Dott. Placido Mondello'
 meta_title: 'Dott. Placido Mondello, Ginecologo: Esperto in prevenzione e cura dell'HPV'
 description: "Dr. Placido Mondello, Specializzato in: Ginecologia e Ostetricia, Prevenzione e cura dell'HPV Papilloma Virus su donna e uomo. Riceve a Messina e Roma"
 intro_image: "images/illustrations/ginecologo-mondello-messina-intro.svg"
