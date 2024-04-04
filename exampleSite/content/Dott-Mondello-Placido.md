@@ -1,5 +1,5 @@
 ---
-title: "Dott. Placido Mondello"
+title: "Profilo professionale"
 description: "Specializzato in Ginecologia e Ostetricia ed Esperto in Malattie Sessualmente Trasmissibili"
 date: 2024-03-13
 draft: false
