@@ -4,13 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <base href="{{ .Site.BaseURL }}">
   <title>{{ block "title" . }}{{ .Params.meta_title | default (printf "%s - %s" .Title .Site.Title) }}{{ end }}</title>
-  {{ if .IsPage }}
-  <link rel="canonical" href="{{ absURL .Permalink }}">perma
-{{ else }}
-  <link rel="canonical" href="{{ .Site.BaseURL }}">base
-{{ end }}
+  <link rel="canonical" href="{{ absURL .Permalink }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="{{ .Site.Params.favicon | relURL }}">
 
