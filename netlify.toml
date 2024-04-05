@@ -12,6 +12,13 @@
 
   	[plugins.inputs]
   	 buildDir = "exampleSite/public"
+	
+	 exclude = [
+    # By file Path
+    './exampleSite/public/team/',
+    # By Glob pattern
+    #'**/**/child-one.html'
+  	]
 
 [[plugins]]
   	package = "netlify-plugin-submit-sitemap"
@@ -20,13 +27,6 @@
 
 	# The base url of your site (optional, default = main URL set in Netlify)
 	# baseUrl = "https://example.com"
-
-	 exclude = [
-    # By file Path
-    './exampleSite/public/team/',
-    # By Glob pattern
-    #'**/**/child-one.html'
-  	]
 
 	# Path to the sitemap URL (optional, default = /sitemap.xml)
 	sitemapPath = "/sitemap.xml"
