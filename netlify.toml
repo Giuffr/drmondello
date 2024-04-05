@@ -18,6 +18,8 @@
     './exampleSite/public/team/',
     # By Glob pattern
     #'**/**/child-one.html'
+	'**/**/404/',
+	'**/**/categories/'
   	]
 
 [[plugins]]
