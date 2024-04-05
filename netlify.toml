@@ -8,10 +8,13 @@
   HUGO_BASEURL = "https://hpvstudiomondello.it/"
 
 [[plugins]]
-  package = "@netlify/plugin-sitemap"
+	package = "@netlify/plugin-sitemap"
+
+  	[plugins.inputs]
+  	 buildDir = "exampleSite/public"
 
 [[plugins]]
-  package = "netlify-plugin-submit-sitemap"
+  	package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
 
