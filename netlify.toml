@@ -16,7 +16,6 @@
 	 exclude = [
     # By file Path
     './exampleSite/public/team/',
-	'./exampleSite/public/404/',
 	'./exampleSite/public/categories/'
     # By Glob pattern
     #'**/**/child-one.html'

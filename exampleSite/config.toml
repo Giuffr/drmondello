@@ -3,6 +3,7 @@ themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "it-IT"
 title = "Dott. Mondello Placido"
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
