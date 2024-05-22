@@ -11,42 +11,77 @@ summary: "Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia
 
 **Iscritto all'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W**
 
-### Profilo Professionale
+### Profilo Professionale e Curriculum del Dott. Placido Mondello
 
 Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero.
 
 ![About Us](/images/Dott-Placido-Mondello.png)
 
 
-### Approccio Terapeutico
+### Formazione
 
-Con oltre 30 anni di esperienza, il Dott. Mondello ha approfondito l'approccio terapeutico alla patologia da HPV, riconoscendo l'importanza di considerare questa malattia come una patologia della coppia. Da questa impostazione rigorosa scaturisce la possibilità di poter eradicare l'infezione nella coppia. L'esperienza e l'evidenza clinica ci portano a considerare che insieme al controllo alla donna è quindi necessario eseguire il controllo al partner attraverso tutti i test diagnostici del caso.
-Grazie a questa impostazione rigorosa, siamo in grado di offrire trattamenti mirati all'eradicazione dell'infezione nella coppia.
+#### Laurea in Medicina e Chirurgia
+- Vincitore di concorso presso l'Accademia Sanità Militare Interforze (ASMI)
+- Formazione presso l'Accademia Navale di Livorno
+- Iscrizione alla Facoltà di Medicina e Chirurgia presso l'Università di Pisa
+- Laurea conseguita con 110/110 e lode
 
-### Metodologia e Servizi Offerti
-Bisogna ricercare la lesione da HPV nei vari distretti dove si può localizzare il virus con:
+#### Specializzazioni
+- **Ostetricia e Ginecologia**: Università di Messina
+- **Anestesia e Rianimazione**: Università di Messina
+- **Tisiologia e Malattie dell'Apparato Respiratorio**: Università di Messina
 
-- **Visita Ginecologica, Colposcopia e PAP-Test**: Un approccio completo alla salute femminile, con un'attenzione particolare alla ricerca delle lesioni da HPV.
-- **Visita Genitali del Sesso Maschile e Peniscopia**: Esami accurati e mirati per individuare precocemente lesioni e infezioni.
-- **Visita Cavo Orale Sesso Femminile e Maschile**: Screening per individuare la presenza di HPV nella regione orale.
-- **Anorettoscopia del Sesso Femminile e Maschile**: Esami strumentali per valutare la presenza di lesioni nella regione anale.
-- **Ricerca HPV DNA Urinario e Ricerca Lesioni da HPV in Vescica**: Indagini approfondite per individuare la presenza del virus in aree non convenzionali.
-- **Eradicazione delle Neoformazioni Virali**: Trattamenti mirati per eliminare le lesioni virali.
+#### Corsi di Perfezionamento
+- Corso biennale in Medicina Penitenziaria: Università di Catania
 
-### Approccio alla Diagnosi
+#### Concorsi
+- Vincitore del concorso per Dirigente Medico U.C.O. di Ostetricia e Ginecologia presso l’Azienda Ospedaliera "Piemonte"
 
-Il Dott. Mondello utilizza metodiche strumentali avanzate come la colposcopia, la peniscopia e l'anorettoscopia per individuare precocemente le lesioni da HPV nei tessuti interessati e nei distretti corporei dove si localizza prevalentemente il virus (genitali femminili esterni ed interni, genitali maschili; regione perianale, regione anale e cavo orale) nei due sessi. 
-Questi esami sono essenziali per una diagnosi accurata e tempestiva.
+### Esperienza Lavorativa
 
-### Trasmissione e Rischio Oncogeno
+#### Dirigente Medico U.O.C. Ostetricia e Ginecologia
+- Azienda "Papardo-Piemonte" di Messina: 1990-2018
+  - 1,344 Amniocentesi
+  - 6,700 Assistenza a parto spontaneo
+  - 600 Parti operativi
+  - 4,030 Isteroscopie diagnostiche e operative
+  - 4,030 Esami cavitari e Revisioni cavitarie
+  - 800 Isterectomie
+  - 700 Ovariectomie e resezioni ovariche
+  - 140 Interventi per gravidanza extrauterina
+  - 600 Asportazioni di cisti ovariche
+  - 700 Miomectomie
 
-La trasmissione dell'HPV avviene principalmente per via sessuale, ma esiste la possibilità di contagio per contaminazione, cioè contatto con zone corporee positive al virus o con superfici contaminate prevalentemente nei locali igienici (ciò spiega come sia possibile diagnosticare l'infezione da HPV anche in bambini con genitori positivi al virus a loro insaputa).
+#### Incarico Professionale per la Prevenzione, Diagnosi e Terapia delle Malattie Sessualmente Trasmissibili
+- Dal 2000: Prevenzione del Carcinoma della portio
+  - 800 Biopsie vulvari, vaginali, portio
+  - 500 Conizzazioni portio
+  - 1,120 Colposcopie
+  - 1,000 Peniscopie
+  - 1,000 Trattamenti di neoformazioni da HPV
 
-> È importante notare che l'HPV è un virus a lunga incubazione, anche un anno o più, e può causare lesioni oncogene nei tessuti infetti. Esistono più di 200 genotipi, alcuni a basso rischio oncogeno, altri a medio rischio ed altri ancora ad alto rischio.
+#### Attività Libero Professionale
+- Dal 2019:
+  - Visite ostetriche
+  - Visite ginecologiche
+  - Colposcopia con biopsia mirata
+  - Peniscopia con biopsia mirata
+  - Rettoscopia per sesso femminile e maschile con ricerca lesioni da HPV
+  - Controllo del cavo orale per sesso femminile e maschile con ricerca HPV DNA
+  - Ricerca HPV DNA in vescica
+  - Eradicazione delle neoformazioni da infezione HPV e da mollusco contagioso
 
+#### Altri Incarichi
+- Dirigente Medico in Ostetricia e Ginecologia presso Ospedale Piemonte di Messina
+- Servizio 118 Ambulanza di Rianimazione
+- Medico penitenziario presso Casa Circondariale di Messina
+- Medico penitenziario presso Casa Circondariale di Latina - Sezione femminile BR
+- Incarico di Guardia Medica presso i presidi dell'USL 42 Messina Sud
 
-### Impegno per il Benessere della Famiglia
+### Attività Scientifica
+- Numerose pubblicazioni su:
+  - Infezioni sessuali in ambienti promiscui e comunità chiuse
+  - Infezione da HPV nel cavo orale e genitale (Rivista "Infettivology and Virology")
+  - Cisti ovarica torta et al.
+- Partecipazione a numerosi corsi di aggiornamento e congressi, anche in qualità di relatore
 
-Il Dott. Placido Mondello da sempre pone particolare attenzione al benessere complessivo della famiglia e della coppia. Con il Centro per l'HPV intende affrontare in quest'ottica tutti i profili legati alla prevenzione, la diagnosi, la terapia di questa temibile infezione virale.
-
-Per prenotare una visita o per ulteriori informazioni, [contattateci](/contact) oggi stesso.
