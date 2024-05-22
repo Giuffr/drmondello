@@ -1,5 +1,5 @@
 ---
-title: "Dott. Placido Mondello"
+title: "Dott. Placido Mondello: Profilo Professionale e Curriculum"
 description: "Specializzato in Ginecologia e Ostetricia ed Esperto in Malattie Sessualmente Trasmissibili"
 date: 2024-03-13
 draft: false
@@ -11,12 +11,9 @@ summary: "Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia
 
 **Iscritto all'Ordine dei Medici di Messina 5175 - C.ENPAM 300073231W**
 
-### Profilo Professionale e Curriculum del Dott. Placido Mondello
-
-Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero.
-
 ![About Us](/images/Dott-Placido-Mondello.png)
 
+Il Dott. Placido Mondello, già Dirigente Medico U.C.O. di Ginecologia e Ostetricia presso un'importante Azienda Ospedaliera, si distingue per la sua vasta esperienza nell'ambito della prevenzione, diagnosi e terapia delle infezioni sessualmente trasmissibili, con particolare attenzione all'HPV e al carcinoma del collo dell'utero.
 
 ### Formazione
 

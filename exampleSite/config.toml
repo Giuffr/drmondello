@@ -2,7 +2,7 @@ baseURL = 'https://hpvstudiomondello.it/'
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "it-IT"
-title = "Dott. Mondello Placido"
+title = "HPV Studio Dr. Mondello - Messina"
 enableRobotsTXT = true
 
 [module]
